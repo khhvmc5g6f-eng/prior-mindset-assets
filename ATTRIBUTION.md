@@ -18,3 +18,8 @@ Only a curated child-friendly subset was shipped to the app (avoiding e.g. Burn 
 - Avatars: avatar-yeti.glb, avatar-bunny.glb, avatar-cat.glb, avatar-dragon.glb, avatar-dino.glb, avatar-frog.glb (Ultimate Monsters Bundle); avatar-adventurer.glb, avatar-astronaut.glb, avatar-robot.glb, avatar-gnome.glb (100 Avatars R1)
 - Decor: decor-tree-large.glb, decor-bush-flowers.glb, decor-flower-group.glb, decor-mushroom.glb, decor-fern.glb, decor-rock-medium.glb (Stylized Nature MegaKit); decor-palm-tree.glb (Pirate kit)
 - Reward visual: reward-treasure-chest.glb (Pirate kit) — used for RewardLink milestone display
+
+## World-expansion assets (2026-08-13, round 2)
+- `path-round-wide.glb`, `path-square-wide.glb`, `path-round-small.glb` — Stylized Nature MegaKit, real walkway tiles.
+- `decor-ship.glb` — "Ship" from Pirate kit, used as a Treasure Cove zone landmark.
+- `landmark-map.obj`/`.mtl`/`landmark-map-texture.jpg` — "Map" by Poly by Google (poly.pizza ID bU3B6P0ngfi), OBJ format, used as a central world landmark.
