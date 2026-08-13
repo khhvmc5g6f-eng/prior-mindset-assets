@@ -23,3 +23,12 @@ Only a curated child-friendly subset was shipped to the app (avoiding e.g. Burn 
 - `path-round-wide.glb`, `path-square-wide.glb`, `path-round-small.glb` — Stylized Nature MegaKit, real walkway tiles.
 - `decor-ship.glb` — "Ship" from Pirate kit, used as a Treasure Cove zone landmark.
 - `landmark-map.obj`/`.mtl`/`landmark-map-texture.jpg` — "Map" by Poly by Google (poly.pizza ID bU3B6P0ngfi), OBJ format, used as a central world landmark.
+
+## World-design council pass (2026-08-13, round 3) — paths, farms, water, mountain backdrop
+- `path-dirt.glb`, `path-cobblestone.glb` — new path materials for varied zone terrain.
+- `decor-signpost.glb`, `decor-bridge.glb` — wayfinding + water crossing.
+- `decor-wood-log.glb` — forest floor detail.
+- `farm-barn.glb`, `farm-silo.glb`, `farm-crops.glb`, `farm-wheat.glb`, `farm-hay.glb`, `farm-fence.glb` — new Farms zone.
+- `decor-lilypad.glb` — pond/lake decoration.
+- `decor-mountain-far.glb`, `decor-mountain-group.glb`, `decor-boulder.glb` — decorative mountain backdrop (non-terrain, non-colliding — see code comments for why a terrain-integrated peak was scoped down).
+All CC0 1.0, sourced via poly.pizza API, confirmed license before download.
